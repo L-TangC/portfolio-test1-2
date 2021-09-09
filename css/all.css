@@ -510,7 +510,7 @@ a{
     width: 100%;
     height: 800px;
     background-image:url(../image/uiux/test.png);
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -521,7 +521,7 @@ a{
     width: 100%;
     height: 800px;
     background-image:url(../image/uiux/moodapp.jpg);
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -533,7 +533,7 @@ a{
     width: 100%;
     height: 800px;
     background-image:url(../image/uiux/yueda1.png);
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -545,7 +545,7 @@ a{
     width: 100%;
     height: 800px;
     background-image:url(../image/uiux/podcast1.jpg);
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
