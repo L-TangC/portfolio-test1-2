@@ -13,6 +13,6 @@ $(window).scroll(function () {
 })
 function parallax(){
     var wScroll = $(window).scrollTop();
-    $('.portfolio-work').css('background-position','center '+(wScroll)+'px')
+    $('.moodapp').css('background-position','center '+(wScroll)+'px')
 
 }
