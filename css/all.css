@@ -526,7 +526,6 @@ a{
     background-size: cover;
     clip-path: polygon(0 0, 100% 10%,100% 100%, 0 90%);
     position:absolute;
-    top:975px;
 }
 .uiux_content .yueda-web{
     width: 100%;
@@ -538,6 +537,7 @@ a{
     background-size: cover;
     clip-path: polygon(0 0, 100% 10%,100% 100%, 0 90%);
     position:absolute;
+	top:1615px;
 }
 .uiux_content .podcast{
     width: 100%;
