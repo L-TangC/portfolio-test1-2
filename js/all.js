@@ -8,3 +8,11 @@ $(document).ready(function () {
         $('.contact').fadeOut(200);
     });
 });
+$(window).scroll(function () { 
+    parallax();
+})
+function parallax(){
+    var wScroll = $(window).scrollTop();
+    $('.portfolio-work').css('background-position','center '+(wScroll)+'px')
+
+}
